@@ -16,28 +16,28 @@ Using Firefox as an example
 
 * Click [this link](https://greasyfork.org/zh-CN/scripts/473268-%E8%8B%B1%E5%8D%8E%E5%AD%A6%E5%A0%82%E5%88%B7%E8%AF%BE%E8%84%9A%E6%9C%AC).
 
-  ![](img\14.png)
+  ![](\img\14.png)
 
 ### Step Two
 
 * If you haven't installed Tampermonkey before, you need to install it first.
 * If you already have Tampermonkey installed, skip to [Step Three](#step_3)
 
-  ![](img\17.png)
+  ![](\img\17.png)
 
-![](img\18.png)
+![](\img\18.png)
 
-![](img\19.png)
+![](\img\19.png)
 
 * As shown in the image above, seeing the application means the installation was successful.
 
 ### <span id="step_3">Step Three:</span>
 
-![](img\20.png)
+![](\img\20.png)
 
-![](img\21.png)
+![](\img\21.png)
 
-![](img\22.png)
+![](\img\22.png)
 
 * As shown above, make sure the script is enabled.
 
