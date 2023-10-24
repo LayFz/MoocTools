@@ -16,7 +16,7 @@ Using Firefox as an example
 
 * Click [this link](https://greasyfork.org/zh-CN/scripts/473268-%E8%8B%B1%E5%8D%8E%E5%AD%A6%E5%A0%82%E5%88%B7%E8%AF%BE%E8%84%9A%E6%9C%AC).
 
-  ![](\img\14.png)
+  ![](.\img\14.png)
 
 ### Step Two
 
